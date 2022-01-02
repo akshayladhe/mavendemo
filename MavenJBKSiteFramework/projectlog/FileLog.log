@@ -1,0 +1,14 @@
+2021-08-19 14:56:51,798  INFO [main] TestBase:26 - reading property from property file
+2021-08-19 14:56:51,812  INFO [main] TestBase:34 - getting property from property file for browser
+2021-08-19 14:56:51,813  INFO [main] TestBase:47 - initialising the browser with namechrome
+2021-08-19 14:56:51,814  INFO [main] TestBase:26 - reading property from property file
+2021-08-19 14:56:51,815  INFO [main] TestBase:34 - getting property from property file for browser
+2021-08-19 14:57:06,322  INFO [main] TestBase:39 - launching an application
+2021-08-19 14:57:06,324  INFO [main] TestBase:26 - reading property from property file
+2021-08-19 14:57:06,326  INFO [main] TestBase:34 - getting property from property file for url
+2021-08-19 14:57:07,740  INFO [main] TestBase:53 - Chrome browser initialise
+2021-08-19 14:57:08,040  INFO [main] DashboardTest:24 - valid login
+2021-08-19 14:57:10,223  INFO [main] DashboardTest:31 - profile name is
+2021-08-19 14:57:10,238  INFO [main] DashboardPage:30 - profile name is.....
+2021-08-19 14:57:10,518  INFO [main] DashboardTest:37 - disply profile photo
+2021-08-19 14:57:10,523  INFO [main] DashboardPage:36 - image disply
